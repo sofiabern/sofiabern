@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 <h1>Hello! Nice to meet you here on my GitHub (˶˃ ᵕ ˂˶)</h1>
 <img src="assets/hero.gif" alt="Hero image">
 
@@ -11,16 +11,15 @@
 
 - 👨‍💻 I’m a junior full-stack developer
 - ❤️ I’m passionate about **React** and **Angular**.
-- 📚 I’m currently studying **SQL** (MySQL, PostgreSQL).
+- 📚 I’m currently learning **SQL** (MySQL, PostgreSQL).
 
-<div style="text-align: center;">
+<div align="center">
 
 ## 💻 My Tech Stack:
 
-[![html, css, js, ts, react, redux, angular, node.js, express, mongodb, postman, vite, webpack, figma, git, github](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,angular,nodejs,express,mongodb,postman,vite,webpack,figma,git,github)](https://skillicons.dev)
+[![html, css, js, ts, react, redux, angular, node.js, express, mongodb, postman, vite, webpack, git, github](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,angular,nodejs,express,mongodb,postman,vite,webpack,git,github)](https://skillicons.dev)
 
 ## 📊 My Stats:
-
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sofiabern&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiabern&layout=compact&theme=dark" />&nbsp;&nbsp;
