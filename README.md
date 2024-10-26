@@ -10,7 +10,7 @@
 </div>
 
 - 👨‍💻 I’m a junior full-stack developer
-- ❤️ I’m passionate about **React** and **Angular**.
+- ❤️ I’m passionate about **Software Engineering**.
 - 📚 I’m currently learning **SQL** (MySQL, PostgreSQL).
 
 <div align="center">
