@@ -17,7 +17,7 @@
 
 ## 💻 My Tech Stack:
 
-[![html, css, js, ts, react, redux, angular, node.js, express, mongodb, postman, vite, webpack, git, github](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,angular,nodejs,express,mongodb,postman,vite,webpack,git,github)](https://skillicons.dev)
+[![html, css, js, ts, react, redux, angular, node.js, express, mongodb, postman, tailwind, vite, webpack, git, github](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,angular,nodejs,express,mongodb,postman,tailwind,vite,webpack,git,github)](https://skillicons.dev)
 
 ## 📊 My Stats:
 <p>
