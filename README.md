@@ -9,9 +9,9 @@
 </a>
 </div>
 
-- 👨‍💻 I’m a junior full-stack developer
-- ❤️ I’m passionate about **Software Engineering**.
-- 📚 I’m currently learning **SQL** (MySQL, PostgreSQL).
+- 👨‍💻 I’m a **junior full-stack developer**
+- ❤️ I’m passionate about **Software Engineering**
+- 📚 I’m currently learning **Docker and Docker Compose**
 
 <div align="center">
 
